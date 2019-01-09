@@ -39,7 +39,7 @@ After opening the code in some IDE you must compile and run. Some lines of inter
 1. To check a payment.
 2. To check previous payments.
 0. To exit.
-Choose between 1,2,3.
+Choose between 1,2,0.
 The results will appear on the screen.
 
 Enjoy! ;)
