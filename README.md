@@ -6,7 +6,7 @@ In addition, you can check the payment history of an employee. To do this, the n
 
 LinkedIn: https://www.linkedin.com/in/eddy-torres-93b229b4/
 
-FirstOfAll:
+First of all:
 1. Click on clone or download and download the file as a ZIP
 2. Extrat the folder Salary or SalaryNetbeans depending on your IDE.
 
